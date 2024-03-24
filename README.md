@@ -1,2 +1,2 @@
 # LinearRegression_one_variable
-Linear regression code tested for one variable on the diabetes dataset imported from scikit-learn library.
+This project focuses on predicting diabetes progression using simple linear regression with one variable from the diabetes dataset available in the sci-kit-learn library. The objective is to understand the relationship between a single health indicator and diabetes progression.
